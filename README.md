@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Tyronez-Kun
+- 👋 Hi, I’m Fabian Mash
 - 👀 I’m interested in ... learning code as a newbie via @SchoolOfCode
-- 🌱 I’m currently learning ... HTML/CSS/Javescript
+- 🌱 I’m currently learning ... HTML/CSS/Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... fabianmash@gmail.com
 
